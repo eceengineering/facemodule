@@ -1,5 +1,5 @@
 # facemodule
-Purpose of the face detection module (aka FACEMODULE) is to provide a basic baseline showing how east it is to perform face detection in an embedded device where a camera is attached.
+Purpose of the face detection module (aka FACEMODULE) is to provide a basic baseline showing how easy it is to perform face detection in an embedded device where a camera is attached.
 
 This module has been designed for embedded Linux devices. The module runs at the user space.
 
