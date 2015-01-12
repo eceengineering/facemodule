@@ -38,7 +38,7 @@ A test application has been implemented by using FACEMODULE and CAMMODULE genera
     FaceDetect()  - To run the algorithm
     Close()     - To close the module	
   
-  Source Code Repo Link: https://github.com/eceengineering/rtspmodule
+  Source Code Repo Link: https://github.com/eceengineering/facemodule
 
   How to Build and Run:
   
