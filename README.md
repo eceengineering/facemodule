@@ -42,6 +42,7 @@ A test application has been implemented by using FACEMODULE and CAMMODULE genera
 
   How to Build and Run:
   
+    Makefile available in the repository is generated regarding to Arm Linux Gnueabihf Gcc.
     Build:$make
     Run:  $./Test.sh
     
